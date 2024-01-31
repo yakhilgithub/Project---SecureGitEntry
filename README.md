@@ -1,7 +1,7 @@
 # Project---SecureGitEntry
 # Day27 of 30 days 30 projects challenge
 
-Welcome to SecureGitEntry – your simple and secure GitHub login page.
+Welcome to SecureGitEntry – A simple and secure GitHub login page.
 
 
 ## What is SecureGitEntry?
@@ -19,6 +19,5 @@ Colors: Inspired by the dark GitHub theme – because who doesn't love a bit of 
 
 Feel free to use this for your GitHub login needs 🚀
 
-Feel free to adjust it further as needed!
 
 
